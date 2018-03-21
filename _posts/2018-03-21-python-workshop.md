@@ -5,7 +5,7 @@ categories: event
 date: 2018-03-21
 ---
 Welcome,<br>
-This weekend GLUG-PESCE is organising a hands-on session on Python headed by Abhinav working at JP Morgan. This workshop is an opportunity for students to be trained on Python Programming language and be able to design and program Python applications.
+This weekend GLUG-PESCE is organising a hands-on session on Python. This workshop is an opportunity for students to be trained on Python Programming language and be able to design and program Python applications.
 
 **Date: *24th March, 2018*<br>
 Time: *9AM***
