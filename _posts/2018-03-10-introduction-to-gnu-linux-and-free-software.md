@@ -14,4 +14,4 @@ As we had to explain about the basic commands of GNU/LINUX we installed Linux-Mi
 
 We successfully completed our first event after re-framing our GLUG-PESCE.
 
-![Poster](/assets/img/blog/introduction-to-gnu-linux-and-free-software-02.jpeg)
+![Poster](/assets/img/blog/introduction-to-gnu-linux-and-free-software-poster.jpeg)
