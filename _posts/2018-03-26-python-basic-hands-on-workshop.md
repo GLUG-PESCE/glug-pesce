@@ -6,7 +6,7 @@ date: 2018-03-26
 ---
 Glug-PESCE organised a one day workshop on Phython Programming language on 24th March, 2018 which was a Saturday. The session started with a small introductory at 10am with  the ISE dept HoD, Dr.Minavathi sharing her thoughts.
 
-The resource persons for the day's workshop were <a href="https://twitter.com/hackintoshrao" target="\_blank" rel="noopener">Karthik Rao</a>, an AI Consultant and <a href="https://twitter.com/iamabraarsyed" target="\_blank" rel="noopener">Abraar Syed</a>, a product engineer, content developer and a corporate trainer with jnaapti, a company which is into providing learning solutions. It was indeed a great pleasure to have them as the day's speakers.
+The resource persons for the day's workshop were <a href="https://twitter.com/hackintoshrao" target="\_blank" rel="noopener">Karthik Rao</a>, an AI Consultant and <a href="https://twitter.com/iamabraarsyed" target="\_blank" rel="noopener">Abraar Syed</a>, a product engineer, content developer and a corporate trainer with jnaapti. It was indeed a great pleasure to have them as the day's speakers.
 
 The workshop had limited seats for 50 students and it was a great success having all the 50 seats being registered before the last date of registration.
 
